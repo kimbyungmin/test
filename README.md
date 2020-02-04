@@ -46,7 +46,7 @@ _// 타입 어노테이션 : 타입을 명시적으로 선언함 변수나 상�
 
 * 조건문
 
-* if~ 구문
+* [if~ 구문](https://github.com/kimbyungmin/test/blob/master/if%7E%20구문.playground/Contents.swift)
 
 * guard 구문
 
