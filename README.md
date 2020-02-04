@@ -40,7 +40,7 @@ _// 타입 어노테이션 : 타입을 명시적으로 선언함 변수나 상�
 
 * [for ~ in 반복문](https://github.com/kimbyungmin/test/blob/master/for%7Ein%20구문.playground/Contents.swift)
 
-* while 반복문
+* [while 반복문](https://github.com/kimbyungmin/test/blob/master/while%20구문.playground/Contents.swift)
 
 * 조건문
 
