@@ -58,7 +58,7 @@ _// 타입 어노테이션 : 타입을 명시적으로 선언함 변수나 상�
 
 * continue 구문
 
-* fallthrough 구문
+* [fallthrough 구문](https://github.com/kimbyungmin/test/blob/master/switch%20구문.playground/Contents.swift)
 
 *  return 구문
 
