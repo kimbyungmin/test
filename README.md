@@ -66,6 +66,12 @@ _// 타입 어노테이션 : 타입을 명시적으로 선언함 변수나 상�
 
 * [배열](https://github.com/kimbyungmin/test/blob/master/배열%20.playground/Contents.swift)
 
+![이미지](https://github.com/kimbyungmin/test/blob/master/append%20첫번째.png)
+![이미지2](https://github.com/kimbyungmin/test/blob/master/insert.png)
+![이미지3](https://github.com/kimbyungmin/test/blob/master/append%20두번째1.png)
+![이미지4](https://github.com/kimbyungmin/test/blob/master/append%20두번째2.png)
+
+
 * 집합
 
 * 튜플
