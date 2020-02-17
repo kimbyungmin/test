@@ -78,7 +78,7 @@ _// 타입 어노테이션 : 타입을 명시적으로 선언함 변수나 상�
 ![집합 이미지2](https://github.com/kimbyungmin/test/blob/master/기본집합연산2.png)
 ![집합 이미지3](https://github.com/kimbyungmin/test/blob/master/포함관계%20판단연산.png)
 
-* 튜플
+* [튜플](https://github.com/kimbyungmin/test/blob/master/튜플.playground/Contents.swift)
 
 * 딕셔너리
 
